@@ -1,4 +1,4 @@
-/* Steve jobs' book */
+/* Little Fish book */
 
 function updateDepth(book, newPage) {
 
