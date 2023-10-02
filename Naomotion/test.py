@@ -5,7 +5,7 @@ import webbrowser
 import time
  
 time.sleep(1)
-webbrowser.open("https://wglouie.github.io/")
+webbrowser.open("https://imandissy.github.io/")
 
 #Delay to wait for page to load
 time.sleep(5)
