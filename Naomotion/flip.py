@@ -13,7 +13,7 @@ import time
 
 
 #time.sleep(1)
-#webbrowser.open("https://jjklotz3.github.io/")
+#webbrowser.open("https://intelligent-robotics-lab.github.io/jjklotz3.github.io/")
 try:
 
 names = list()

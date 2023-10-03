@@ -134,7 +134,7 @@
         import webbrowser
         import time
 
-        webbrowser.open("https://bright626816.github.io/")
+        webbrowser.open("https://intelligent-robotics-lab.github.io/jjklotz3.github.io/")
         time.sleep(1.56)
         v=virtkey.virtkey()
         v.press_keysym(65363)
